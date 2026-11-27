@@ -2,7 +2,7 @@
 
 <img src="https://github.com/ethical-tool.png" alt="Ethical-Unsensord-Ai Logo" width="180">
 
-# Ethical-Unsensord-Ai
+# Ethical-Uncensored-AI
 
 ### A Global Directory of AI Platforms, Open Models & Local AI Tools
 
@@ -22,7 +22,7 @@ Discover AI chat platforms, model aggregators, local AI applications, open-weigh
 
 ## 📖 About
 
-**Ethical-Unsensord-Ai** is a curated global directory for discovering AI platforms, open-weight models, local AI applications, and developer resources.
+**Ethical-Uncensored-AI** is a curated global directory for discovering AI platforms, open-weight models, local AI applications, and developer resources.
 
 This project brings together useful AI resources in one organized place, making it easier to explore different platforms, compare available technologies, and discover tools for research, development, education, and creative work.
 
@@ -192,7 +192,7 @@ Please verify links before submitting a contribution.
 ## 📂 Project Structure
 
 ```text
-Ethical-Unsensord-Ai/
+Ethical-Uncensored-AI/
 │
 └── README.md
 ```
